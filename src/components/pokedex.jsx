@@ -1,4 +1,3 @@
-// src/components/Pokedex.js
 import React from 'react';
 import {useState,useEffect} from 'react';
 import '../styles/pokedex.css';
